@@ -1,6 +1,8 @@
 # Karnataka-Crop-Recommendation
 🌾 AI-based Crop Recommendation System for Karnataka Farmers using NASA Climate Data, Kannada Support and Streamlit UI.
 
+🔗 **Live Demo:** [Click here to try the app](https://karnataka-crop-recommendation-cktyc7yzy79w8rpduwjsyf.streamlit.app/)
+
 🌾Crop Recommendation System
 
 An AI-based intelligent crop recommendation system built for Karnataka farmers. It uses district-wise climate data, rainfall, soil type, and season to recommend suitable crops — with Kannada language support and voice output for better accessibility.
