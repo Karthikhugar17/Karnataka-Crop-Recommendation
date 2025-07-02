@@ -1,0 +1,122 @@
+{
+  "Bagalkot": {
+    "lat": 16.18,
+    "lon": 75.7
+  },
+  "Bellary": {
+    "lat": 15.14,
+    "lon": 76.92
+  },
+  "Belagavi": {
+    "lat": 15.85,
+    "lon": 74.5
+  },
+  "Bengaluru Rural": {
+    "lat": 13.21,
+    "lon": 77.45
+  },
+  "Bengaluru Urban": {
+    "lat": 12.97,
+    "lon": 77.59
+  },
+  "Bidar": {
+    "lat": 17.91,
+    "lon": 77.53
+  },
+  "Chamarajanagar": {
+    "lat": 11.93,
+    "lon": 76.95
+  },
+  "Chikballapur": {
+    "lat": 13.43,
+    "lon": 77.73
+  },
+  "Chikkamagaluru": {
+    "lat": 13.32,
+    "lon": 75.77
+  },
+  "Chitradurga": {
+    "lat": 14.23,
+    "lon": 76.4
+  },
+  "Dakshina Kannada": {
+    "lat": 12.87,
+    "lon": 74.84
+  },
+  "Davanagere": {
+    "lat": 14.47,
+    "lon": 75.92
+  },
+  "Dharwad": {
+    "lat": 15.46,
+    "lon": 75.01
+  },
+  "Gadag": {
+    "lat": 15.43,
+    "lon": 75.63
+  },
+  "Hassan": {
+    "lat": 13.01,
+    "lon": 76.1
+  },
+  "Haveri": {
+    "lat": 14.79,
+    "lon": 75.4
+  },
+  "Kalaburagi": {
+    "lat": 17.33,
+    "lon": 76.84
+  },
+  "Kodagu": {
+    "lat": 12.42,
+    "lon": 75.73
+  },
+  "Kolar": {
+    "lat": 13.14,
+    "lon": 78.13
+  },
+  "Koppal": {
+    "lat": 15.35,
+    "lon": 76.15
+  },
+  "Mandya": {
+    "lat": 12.52,
+    "lon": 76.9
+  },
+  "Mysuru": {
+    "lat": 12.3,
+    "lon": 76.65
+  },
+  "Raichur": {
+    "lat": 16.21,
+    "lon": 77.36
+  },
+  "Ramanagara": {
+    "lat": 12.72,
+    "lon": 77.3
+  },
+  "Shivamogga": {
+    "lat": 13.93,
+    "lon": 75.56
+  },
+  "Tumkur": {
+    "lat": 13.34,
+    "lon": 77.1
+  },
+  "Udupi": {
+    "lat": 13.34,
+    "lon": 74.75
+  },
+  "Uttara Kannada": {
+    "lat": 14.81,
+    "lon": 74.13
+  },
+  "Vijayapura": {
+    "lat": 16.83,
+    "lon": 75.72
+  },
+  "Yadgir": {
+    "lat": 16.77,
+    "lon": 77.13
+  }
+}
